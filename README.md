@@ -78,7 +78,7 @@ Ikuti langkah berikut untuk menjalankan project di komputer lokal:
 
 ### 1. Clone Repository
 bash
-git clone https://github.com/username-github-kamu/connecting-u.git
+git clone https://github.com/NaomiOzora/ConnectingU.git 
 cd connecting-u
 
 ### 2. Install Dependencies
